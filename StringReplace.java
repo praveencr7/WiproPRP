@@ -1,3 +1,10 @@
+/*
+Take three strings
+Replace 1st with " in vowels position
+Replace 2nd with * in vowels Position
+Make 3rd String to lowercase
+*/
+
 import java.util.Scanner;
 public class StringReplace {
   public static void main(String[]args){
